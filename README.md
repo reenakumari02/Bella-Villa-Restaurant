@@ -17,7 +17,7 @@ A beautiful restaurant website built using HTML and CSS.
 
 ## 📂 Project Structure
 
-bella-vista/
+Bella-Vista/
 │── index.html
 │── style.css
 │── images/
