@@ -36,22 +36,3 @@ A beautiful, responsive restaurant website built with HTML5 and CSS3.
 
 2. Open `index.html` in your browser
 
-## 📝 Customization
-
-- Update restaurant info in `index.html`
-- Change colors in `style.css` `:root` variables
-- Replace hero image in `images/` folder
-
-## 📧 Contact
-
-- Email: info@bellavista.com
-- Phone: 9479450978
-- Address: 123 Italian Street, City Center, NY 10001
-
-## 📄 License
-
-MIT License - Open source
-
----
-
-**Made with ❤️ for authentic Italian cuisine**
